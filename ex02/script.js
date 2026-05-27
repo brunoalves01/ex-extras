@@ -15,4 +15,4 @@ for (let i = valorInicial; i <= valorFinal; i += incremento) { //para cada ";" d
 contagem += "Acabou!";
 alert(contagem);
 
-//A interpolação de strings em JavaScript é realizada através de Template Literals (ou Template Strings), utilizando crases (`) em vez de aspas simples ou duplas. Elas permitem inserir variáveis e expressões diretamente na string usando a sintaxe ${expressão}, facilitando a legibilidade e evitando junções de textos e expressões complexas com o operador 
+//A interpolação de strings é realizada através de Template Literals (ou Template Strings), utilizando crases (`) em vez de aspas simples ou duplas. Elas permitem inserir variáveis e expressões diretamente na string usando a sintaxe ${expressão}, facilitando a legibilidade e evitando junções de textos e expressões complexas com o operador 
